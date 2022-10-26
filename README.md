@@ -15,9 +15,3 @@
 
 ***Requirenments:***
 - [Microsoft Power Bi](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-
-***How do I get set up?***
-- Summary of set up get this repository by running the command below on your terminal
-```
-$ git clone https://github.com/miraytopal/Formula1DataSet-PowerBi
-```
